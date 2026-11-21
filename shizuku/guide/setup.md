@@ -1,4 +1,4 @@
-# User manual
+# User manuals 
 
 [[toc]]
 
@@ -135,7 +135,8 @@ Disable "Permission monitoring" in "Developer options".
 
 Disable "Flyme payment protection" in "Developer options".
 
-### Start via wireless debugging/Start by connecting to a computer: Shizuku randomly stops
+### Start via wireless debugging/Start by connecting to a computer: Shizuku ra
+ndomly stops
 
 #### All devices
 
